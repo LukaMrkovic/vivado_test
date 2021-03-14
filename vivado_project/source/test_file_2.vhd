@@ -2,9 +2,9 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 14.03.2021 12:03:24
+-- Create Date: 14.03.2021 12:17:34
 -- Design Name: 
--- Module Name: test_file - Behavioral
+-- Module Name: test_file_2 - Behavioral
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
@@ -31,16 +31,16 @@ use IEEE.STD_LOGIC_1164.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
-entity test_file is
+entity test_file_2 is
 
     --  Port ( );
 
-end test_file;
+end test_file_2;
 
-architecture Behavioral of test_file is
+architecture Behavioral of test_file_2 is
 
 begin
 
-    -- 1, 2, 3, Test... 4, 5, 6, Test... 7, 8, 9, Test...
+    -- 3, 6, 9, Test...
 
 end Behavioral;
