@@ -41,6 +41,6 @@ architecture Behavioral of test_file_2 is
 
 begin
 
-    -- 3, 6, 9, Test...
+    -- 3, 6, 9, Test... 12, 15, 18, Test...
 
 end Behavioral;
